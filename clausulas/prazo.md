@@ -1,0 +1,4 @@
+### PRAZO DA LOCAÇÃO
+
+1. O presente contrato correrá com a duração estipulada no prêambulo, cessando de pleno direito na data prevista para o seu término, independentemente de qualquer aviso ou notificação, com ressalva de prorrogações consensuais ou compulsórias, estas decorrentes da legislação aplicável, hipótese em que as demais cláusulas deste instrumento permanecerão inalteradas até a efetiva entrega das chaves e rescisão plena da locação.
+2. Na hipótese de ser o Contrato de Locação prorrogado por tempo indeterminado, poderá qualquer uma das partes denunciá-lo a qualquer momento, desde que sejam preenchidos os requisitos no caput do Artigo 6° (sexto) c/c o Artigo 57 da Lei n° 8.245/91 (Lei do Inquilinato) respectivamente, isto é, que tal denúncia seja por escrito e com antecedência mínima de 30 dias.
